@@ -26,3 +26,7 @@
 [3]:https://gitee.com/xyz_bytes/kubernetes-ha-kubeadm/src/master/docs/3-test.md
 [4]:https://gitee.com/xyz_bytes/kubernetes-ha-kubeadm/src/master/docs/4-dashboard.md
 [6]:https://kubernetes.io/docs/setup/independent/high-availability/
+
+
+
+forked from bytes
